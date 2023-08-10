@@ -1,6 +1,8 @@
-# Bem-Vindo à Neo Class
+<p align="center">
+  <img src="https://github.com/NeoClassOFC/NeoClassOFC/assets/141865461/d09c6f6f-9aca-4e4a-9ff8-f7bff592100c.png" alt="Logo da Neo Class" width="100" style="border-radius: 50%;">
+</p>
 
-![Logo da Neo Class](link_para_logo.png)
+# Bem-Vindo à Neo Class
 
 Seja muito bem-vindo à Neo Class! Somos uma plataforma de software dedicada a otimizar a experiência educacional dos estudantes. Nossa missão é fornecer um conjunto abrangente de recursos e funcionalidades que aprimoram o desempenho e o sucesso acadêmico dos alunos.
 

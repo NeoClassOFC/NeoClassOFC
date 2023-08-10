@@ -10,6 +10,12 @@ Seja muito bem-vindo à Neo Class! Somos uma plataforma de software dedicada a o
 
 Na Neo Class, estamos comprometidos em criar um ambiente de aprendizado inovador e personalizado para cada aluno. Nossa plataforma oferece uma série de recursos projetados para atender às necessidades específicas dos estudantes em suas jornadas educacionais.
 
+## Tecnologias Utilizadas
+
+<img align="center" alt="Python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Ppycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
+          
+          
 ## Funcionalidades Destacadas
 
 ### Cada Semana Um Tema de Redação

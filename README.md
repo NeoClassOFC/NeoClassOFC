@@ -42,12 +42,12 @@ Acompanhe seu progresso em relação aos outros alunos com nosso sistema de rank
 
 ## Contato
 
-Estamos animados por tê-lo conosco nesta jornada educacional! Caso tenha alguma dúvida, sugestão ou deseje entrar em contato, sinta-se à vontade para nos enviar uma mensagem em [contato@neoclass.com](mailto:contato@neoclass.com).
+Estamos animados por tê-lo conosco nesta jornada educacional! Caso tenha alguma dúvida, sugestão ou deseje entrar em contato, sinta-se à vontade para nos enviar uma mensagem em [Tech.NeoClass@gmail.com](mailto:Tech.NeoClass@gmail.com).
 
 Acompanhe as últimas novidades e atualizações por meio de nossas redes sociais:
 
 - [Facebook](https://www.facebook.com/neoclass)
-- [Instagram](https://www.instagram.com/neoclass)
-- [Twitter](https://www.twitter.com/neoclass)
+- [Instagram](https://www.instagram.com/3informatica_liceu)
+- [Twitter](https://www.inkedin.com/neoclass)
 
 Junte-se a nós na Neo Class e alcance seu potencial máximo como estudante!

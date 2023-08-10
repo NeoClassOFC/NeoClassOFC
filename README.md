@@ -54,6 +54,6 @@ Acompanhe as últimas novidades e atualizações por meio de nossas redes sociai
 
 - [Facebook](https://www.facebook.com/neoclass)
 - [Instagram](https://www.instagram.com/3informatica_liceu)
-- [Twitter](https://www.inkedin.com/neoclass)
+- [Linkedin](https://www.inkedin.com/neoclass)
 
 Junte-se a nós na Neo Class e alcance seu potencial máximo como estudante!
